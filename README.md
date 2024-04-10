@@ -2,9 +2,7 @@
 Classifying song genre using audio data
 
 In this project, we explore the classification of music genres using a dataset
-comprising songs from six distinct genres: Hip-Hop, Rock, Reggae, Blues, classical, metal. The dataset,
-sourced from the GTZAN dataset, contains track information derived from
-Echonest, now a part of Spotify. We use Python libraries such as pandas and
+comprising songs from six distinct genres: 'metal', 'reggae', 'classical', 'blues', 'jazz', 'hiphop', 'rock', 'country', 'disco', 'pop'. The dataset, sourced from the GTZAN dataset, contains track information derived from Echonest, now a part of Spotify. We use Python libraries such as pandas and
 seaborn for data manipulation and visualization, respectively, to analyze
 trends and factors pertinent to genre classification. We implement popular
 algorithms including logistic regression, decision trees, and principal
